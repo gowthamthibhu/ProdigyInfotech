@@ -1,2 +1,5 @@
+*.png
 gowtham/Lib/site-packages/werkzeug/wrappers/request.py
 *.pyd
+/gowtham/Lib/site-packages/flatbuffers
+*.py
